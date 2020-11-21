@@ -1,0 +1,8 @@
+#!/user/bin/env ruby
+require_relative '../config/environment.rb'
+Scraper.scrape_all_teams
+game = NFLRosterController.new
+game.call
+
+
+

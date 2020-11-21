@@ -1,0 +1,6 @@
+# require_all 'lib'
+require_relative '../lib/player.rb'
+require_relative '../lib/team.rb'
+require_relative '../lib/position.rb'
+require_relative '../lib/NFLRosterController.rb'
+require_relative '../lib/scraper.rb'
