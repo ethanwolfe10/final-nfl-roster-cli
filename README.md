@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To begin the CLI program, run `ruby bin/run`.
+
+To get a list of helpful commands, you may enter `help`.
+To exit at anytime, enter `exit`.
 
 ## Development
 
